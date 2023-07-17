@@ -5,7 +5,7 @@ Deployed on Netlify [![Netlify Status](https://api.netlify.com/api/v1/badges/e52
 Components used:
 
 - React Functional components
-- Material UI
+- Material UI (Icons and Components)
 - React Router
 - React Player
 - Rapid API
